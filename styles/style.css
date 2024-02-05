@@ -56,3 +56,37 @@ thead{
 #chiusura-titolo{
     color: grey;
 }
+/* .overlay-text {
+    float: left;
+    margin: 0;
+    padding: -70px;
+    width: 100%;
+    color: red;
+    position: absolute;
+    left: 10%;
+    bottom: 9px;
+    font-size: 60px;
+   
+} */
+.footer-text{
+    color:white;
+    font-size: 25px;
+    position: absolute;
+    float: left;
+    bottom: 85%;
+    left: 5%;  
+}
+.footer-text2{
+    color:white;
+    font-size: 25px;
+    position: absolute;
+    float: left;
+    bottom: 85%;
+    left: 5%;  
+}
+.footer-image{
+    position: absolute;
+}
+h4{
+    color: grey;
+}
