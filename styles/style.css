@@ -36,3 +36,19 @@ header{
 #text1{
     background-color: yellow;
 }
+
+table{
+    text-align: left;
+}
+
+th{
+    width: 5px;
+    
+}
+thead{
+    background-color: #21A9E5;
+
+}
+.color{
+    background-color: #B1E5F2;
+}
