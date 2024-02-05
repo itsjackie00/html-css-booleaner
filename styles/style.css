@@ -33,7 +33,7 @@ header{
 .pic-description{
     color: rgba(0, 0, 0, 0.843);
 }
-#text1{
+.text1{
     background-color: yellow;
 }
 
@@ -51,4 +51,8 @@ thead{
 }
 .color{
     background-color: #B1E5F2;
+}
+
+#chiusura-titolo{
+    color: grey;
 }
